@@ -1,6 +1,6 @@
 -- ===========================================================================================
 	-- PROJECT NAME => AGGRICULTURE STORE INVENTORY MANAGEMENT SYSTEM FOR ONLINE STORE;
-	-- Student Name : ANUSHKA VINAYAK CHAVAN
+	
 		
 
 	
